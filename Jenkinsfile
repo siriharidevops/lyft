@@ -1,6 +1,6 @@
 pipeline{
     agent any 
-    enivroment {
+    environment {
         PATH= "/usr/bin:$PATH"
     }
     
